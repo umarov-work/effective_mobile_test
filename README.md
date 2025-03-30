@@ -12,6 +12,7 @@
 - GET /persons - Get list of persons
 - PUT /person/{id} - Update a person
 - DELETE /person/{id} - Delete a person
+- GET /swagger/index.html - Swagger
 
 ## Требования
 
@@ -24,7 +25,7 @@
 ### 1. Клонирование репозитория
 Склонируйте репозиторий на свой компьютер:
 ```bash
-git clone https://github.com/magusha/effective_mobile_test.git
+git clone https://github.com/umarov-work/effective_mobile_test.git
 cd effective_mobile_test
 ```
 ### 2. Настройка окружения
